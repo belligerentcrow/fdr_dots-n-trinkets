@@ -1,0 +1,31 @@
+window:
+  opacity: 1.0
+  decorations: full
+  title: Deez Nuts
+colors:
+  # Default colors
+  primary:
+    background: '0x170f0d'
+    foreground: '0x9daf3e'
+
+  # Normal colors
+  normal:
+    black:   '0x392925'
+    red:     '0xfffb00'
+    green:   '0x5c5b20'
+    yellow:  '0x4c7b5b'
+    blue:    '0x7b854e'
+    magenta: '0x6b5644'
+    cyan:    '0x5c5142'
+    white:   '0xc8b55b'
+
+  # Bright colors
+  bright:
+    black:   '0x544b2e'
+    red:     '0xaf652f'
+    green:   '0xc3c13d'
+    yellow:  '0xdbc24e'
+    blue:    '0x70a16c'
+    magenta: '0x76583b'
+    cyan:    '0x778725'
+    white:   '0x8de693'
