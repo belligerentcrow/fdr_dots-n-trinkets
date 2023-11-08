@@ -20,11 +20,11 @@
 * https://github.com/JuUnland/Chess
 * https://github.com/EnokiUN/ascii
 * https://github.com/D4Vinci/Twitter-Info
-* https://github.com/torvalds/linux
+* https://github.com/torvalds/linux (TOO FUkING HEAVY)
 * https://github.com/ChessMax/awesome-programming-tools
-* https://github.com/Bugswriter/notflix
-* https://github.com/Bugswriter/redyt
-* https://github.com/Bugswriter/tuxi
+* https://github.com/Bugswriter/notflix (NOT WORKING)
+* https://github.com/Bugswriter/redyt 
+* https://github.com/Bugswriter/tuxi (OUTDATED)
 * https://github.com/UNICT-DMI/Telegram-DMI-Bot
 * https://github.com/UNICT-DMI/Telegram-SpottedDMI-Bot
 * https://github.com/UNICT-DMI/Welcome-Bot
