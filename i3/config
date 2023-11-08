@@ -13,6 +13,10 @@
 exec feh --bg-scale ~/Pictures/nature.png
 set $mod Mod4
 
+# Screenshots
+#bindsym $mod+Shift+i exec vlc ~/Music/Bomb.mp3 & 
+bindsym $mod+Shift+i exec ~/.config/i3/screensh.sh 1
+bindsym $mod+Shift+u exec ~/.config/i3/screensh.sh 2
 # Gaps
 
 gaps inner 10px
